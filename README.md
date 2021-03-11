@@ -1,2 +1,2 @@
 # eeee
-(link)[https://verify.eryn.io/]
+[link](https://verify.eryn.io/)
